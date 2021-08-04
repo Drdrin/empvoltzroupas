@@ -1,6 +1,4 @@
 
-[PT-BR]
-
 Emprego feito para estudos dentro da plataforma FiveM, na framework VRPex. Está Indeterminado, caso queira usar, tem coisas inacabadas, mas nada impossível.
 ALERTA: NÃO MUDAR O NOME DA PASTA, OU DO SCRIPT, SENÃO IRÁ PARAR DE FUNCIONAR
 
